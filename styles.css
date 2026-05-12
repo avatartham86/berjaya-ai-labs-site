@@ -132,8 +132,8 @@ img, video { max-width: 100%; display: block; }
   margin-left: auto;
 }
 .corporate-logo {
-  width: 96px;
-  height: 64px;
+  width: 128px;
+  height: 86px;
   object-fit: contain;
   display: block;
 }
