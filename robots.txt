@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://berjayaailabs.my/sitemap.xml
+Host: https://berjayaailabs.my

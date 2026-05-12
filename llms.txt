@@ -1,0 +1,23 @@
+# Berjaya AI Labs
+> Berjaya AI Labs Sdn. Bhd. builds AI solutions for enterprises that want to improve productivity, automate workflows, and scale knowledge across teams.
+
+## Main Pages
+- [Homepage](https://berjayaailabs.my/)
+- [About](https://berjayaailabs.my/#about)
+- [What We Do](https://berjayaailabs.my/#services)
+- [Director](https://berjayaailabs.my/#director)
+- [Contact](https://berjayaailabs.my/#contact)
+
+## Capabilities
+- Conversational AI
+- Enterprise knowledge systems
+- Private AI deployment
+- Intelligent document processing
+- Workflow automation
+- Retrieval-augmented search
+- Social signal monitoring
+- AI-powered vision analytics
+
+## Contact
+- Email: ai.labs@berjaya.com.my
+- Phone: +603-2149 1999
