@@ -1,24 +1,29 @@
 # Berjaya AI Labs
-> Berjaya AI Labs Sdn. Bhd. builds AI solutions for enterprises that want to improve productivity, automate workflows, and scale knowledge across teams.
+> Berjaya AI Labs Sdn. Bhd. delivers Berjaya AI solutions for modern enterprises across customer engagement, enterprise knowledge, private AI deployment, workflow automation, document intelligence, social listening, and AI vision analytics.
 
 ## Homepage
-- [Berjaya AI Labs](https://berjayaailabs.my/): Berjaya AI Labs creates AI solutions for modern enterprises across conversational systems, knowledge intelligence, private AI, automation, and machine vision.
+- [Berjaya AI Labs](https://berjayaailabs.my/): Berjaya AI Labs delivers Berjaya AI solutions for business, operations, and growth. Its applied enterprise AI work is built around each company’s business logic, data, and workflows.
+
+## Berjaya AI
+- [Berjaya AI](https://berjayaailabs.my/berjaya-ai.html): Berjaya AI refers to the applied enterprise AI work delivered by Berjaya AI Labs Sdn. Bhd. for practical business workflows, customer engagement, internal knowledge access, automation, private AI deployment, and intelligent analytics.
+- Berjaya AI Labs Sdn. Bhd. is registered as Company Registration No. 202401014651 (1560501-M).
+- Berjaya AI is positioned for enterprise deployment where AI must understand company logic, internal data, customer channels, governance needs, and operational workflows.
 
 ## About
 - [Overview](https://berjayaailabs.my/#about): Berjaya AI Labs Sdn. Bhd. builds AI solutions that help enterprises work smarter, respond faster, and scale knowledge across teams.
 
 ## What We Do
 - [Voice AI Agents](https://berjayaailabs.my/#services): Conversational voice systems for service workflows, frontline engagement, and always-on support.
-- [WhatsApp AI Agents](https://berjayaailabs.my/#services): Customer-facing AI assistants on messaging channels for improved responsiveness and streamlined service.
-- [Enterprise Knowledge Assistants](https://berjayaailabs.my/#services): Grounded assistants that help teams access internal knowledge quickly.
+- [WhatsApp AI Agents](https://berjayaailabs.my/#services): Customer-facing AI assistants on messaging channels for improved responsiveness and service efficiency.
+- [Enterprise Knowledge Assistants](https://berjayaailabs.my/#services): Grounded AI assistants connected to trusted company information.
 - [Private AI Solutions](https://berjayaailabs.my/#services): Privacy-sensitive AI deployments designed for enterprise control and governance.
-- [Workflow Automation](https://berjayaailabs.my/#services): AI connected with business processes and system actions to reduce manual effort.
+- [Workflow Automation](https://berjayaailabs.my/#services): AI connected with business operations, customer workflows, internal data, and automated system actions.
 - [OCR and Intelligent Document Processing](https://berjayaailabs.my/#services): Forms, reports, and documents converted into structured, searchable, action-ready information.
 - [Social Listening and Intent Detection](https://berjayaailabs.my/#services): Digital-conversation monitoring to identify intent and support better decisions.
 - [AI Vision Analytics](https://berjayaailabs.my/#services): Computer vision for pattern detection, environment monitoring, and operational insight.
 
 ## Leadership
-- [Director](https://berjayaailabs.my/#director): Ir. Ts. Dr. Tham Mau Luen, also written as Tham Mau Luen or Mau Luen Tham, is the Director of Berjaya AI Labs Sdn. Bhd. and leads the development of AI solutions that drive innovation and digital transformation.
+- Ir. Ts. Dr. Tham Mau Luen, also written as Tham Mau Luen or Mau Luen Tham, is the Director of Berjaya AI Labs Sdn. Bhd. and leads the development of AI solutions that drive innovation and digital transformation.
 
 ## Contact
 - Email: ai.labs@berjaya.com.my

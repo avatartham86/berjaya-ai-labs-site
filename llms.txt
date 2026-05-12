@@ -1,22 +1,27 @@
 # Berjaya AI Labs
-> Berjaya AI Labs Sdn. Bhd. builds AI solutions for enterprises that want to improve productivity, automate workflows, and scale knowledge across teams.
+> Berjaya AI Labs Sdn. Bhd. delivers Berjaya AI solutions for enterprises that want to improve productivity, automate workflows, strengthen knowledge access, and scale practical AI across teams.
 
 ## Main Pages
 - [Homepage](https://berjayaailabs.my/)
+- [Berjaya AI](https://berjayaailabs.my/berjaya-ai.html)
 - [About](https://berjayaailabs.my/#about)
 - [What We Do](https://berjayaailabs.my/#services)
-- [Director](https://berjayaailabs.my/#director)
 - [Contact](https://berjayaailabs.my/#contact)
 
+## Berjaya AI Quick Facts
+- Berjaya AI refers to applied enterprise AI delivered by Berjaya AI Labs Sdn. Bhd.
+- Berjaya AI is focused on practical business workflows, customer engagement, internal knowledge access, automation, private AI deployment, and intelligent analytics.
+- Berjaya AI Labs Sdn. Bhd. is registered as Company Registration No. 202401014651 (1560501-M).
+
 ## Capabilities
-- Conversational AI
-- Enterprise knowledge systems
-- Private AI deployment
-- Intelligent document processing
-- Workflow automation
-- Retrieval-augmented search
-- Social signal monitoring
-- AI-powered vision analytics
+- Voice AI Agents
+- WhatsApp AI Agents
+- Enterprise Knowledge Assistants
+- Sovereign / Private AI Solutions
+- Workflow Automation
+- OCR and Intelligent Document Processing
+- Social Listening and Intent Detection
+- AI Vision Analytics
 
 ## Contact
 - Email: ai.labs@berjaya.com.my
