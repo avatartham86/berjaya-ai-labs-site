@@ -708,6 +708,49 @@ nav a:last-child:hover {
 }
 .site-footer a:hover { border-color: #fff; }
 
+/* ─────────────────────────  Privacy Policy page  ───────────────────────── */
+
+.policy-hero { padding: 76px 0 72px; }
+.policy-hero h1 { max-width: 900px; }
+.policy-section {
+  background:
+    radial-gradient(60% 60% at 100% 0%, rgba(124, 92, 255, 0.06), transparent 60%),
+    var(--bg);
+}
+.policy-container { max-width: 980px; }
+.policy-card {
+  padding: clamp(28px, 5vw, 58px);
+  background: linear-gradient(180deg, #ffffff 0%, #fbfaf6 100%);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-card);
+}
+.policy-card h2 {
+  margin: 42px 0 14px;
+  color: var(--ink);
+  font-size: clamp(22px, 2.4vw, 30px);
+  line-height: 1.18;
+  letter-spacing: -0.035em;
+}
+.policy-card h2:first-of-type { margin-top: 30px; }
+.policy-card p, .policy-card li {
+  color: var(--text);
+  text-align: left;
+  hyphens: none;
+  -webkit-hyphens: none;
+}
+.policy-card p { margin: 0 0 16px; }
+.policy-card ol {
+  margin: 0 0 18px 1.25em;
+  padding: 0;
+}
+.policy-card li { margin: 0 0 8px; padding-left: 4px; }
+.policy-meta-line {
+  color: var(--muted);
+  font-family: var(--mono);
+  font-size: 13px;
+}
+
 /* ─────────────────────────  Reveal motion  ───────────────────────── */
 
 [data-reveal] {
